@@ -15,7 +15,6 @@ import pandas as pd
 def ingest_data():
 
     #
-    # Inserte su código aquí
-    #
+    # Return data
 
     return df
